@@ -28,7 +28,7 @@ Check out this video if you only need the GIT portions of this tutorial:
 3. Click **Install**.
 
 <p align="center">
-    <img src="images/install_omni_code.png" width=50%>
+    <img src="Images/install_omni_code.png" width=50%>
 <p>
 
 The installation will proceed automatically from this point.
@@ -74,7 +74,7 @@ In this section, you create a new extension inside NVIDIA Omniverse™ Code.
 From the Omniverse Launcher, click **Library**, then **Code**, then **Launch**:
 
 <p align="center">
-    <img src="images/launch_code.png" width=50%>
+    <img src="Images/launch_code.png" width=50%>
 <p>
 
 ### Step 6.2: Establish a Project Folder
@@ -90,7 +90,7 @@ Choose a folder on your file system where you'll store all of your repositories.
 5. Click **Select**
 
 <p align="center">
-    <img src="images/new_project.png" width=50%>
+    <img src="Images/new_project.png" width=50%>
 <p>
 
 ### Step 6.4: Name your Extension
@@ -99,7 +99,7 @@ Choose a folder on your file system where you'll store all of your repositories.
 2. Name your Extension
 
 <p align="center">
-    <img src="images/extension_name.png" width=50%>
+    <img src="Images/extension_name.png" width=50%>
 <p>
 
 For the Extension name, use the following convention:
